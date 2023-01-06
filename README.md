@@ -1,7 +1,7 @@
-# WhatsAppUI
+# FormSwiftUI
 ON GOING PROJECT
 
-Creating WhatsApp UI using SwiftUI and  Xcode
+Created with SwiftUI and  Xcode
 
 Contoh tampilan dapat dilihat pada gambar dibawah
 
